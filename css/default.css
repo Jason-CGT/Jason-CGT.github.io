@@ -1,7 +1,7 @@
 
 body {
 
-    Background-image: url('IMG.jpg');
+    Background-image: ('https://github.com/JasonandKitty/JasonandKitty.github.io/blob/master/css/IMG.JPG');
     Background-repeat:no-repeat;
     Background-attachment:fixed; 
     Background-size: cover;
